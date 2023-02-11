@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 mihh@the_frying_pan:~$ cmatrix
 ```
 
-<h1 align="left"> Hello there 👋 </h1>
+<h1 align="center"> Hello there 👋 </h1>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlastOfMihh&show_icons=true&theme=dark&locale=en&layout=compact" alt="BlastOfMihh" />
 
