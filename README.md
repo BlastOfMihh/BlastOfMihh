@@ -26,3 +26,5 @@ mihh@the_frying_pan:~$ cmatrix
 
 ![](https://komarev.com/ghpvc/?username=BlastOfMihh&style=flat&color=770058&label=visitors)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:770058,50:6cd4ff,100:8b80f9&height=170&width=640&section=header&text=✨%20welcome%20to%20my%20page%20!%20%E2%9C%A7%CB%96%C2%B0&fontSize=40&fontAlignY=40&animation=scaleIn&fontColor=ffe6ee" />
+
