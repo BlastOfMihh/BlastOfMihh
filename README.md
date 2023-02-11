@@ -1,4 +1,4 @@
-### Hello there 👋
+
 
 <!--
 **BlastOfMihh/BlastOfMihh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">✧˖° About me: ✨</h1>
+<h1 align="left"> Hello there 👋 </h1>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlastOfMihh&show_icons=true&theme=dark&locale=en&layout=compact" alt="BlastOfMihh" />
