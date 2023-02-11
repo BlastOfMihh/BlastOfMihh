@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 <h1 align="left"> Hello there 👋 </h1>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlastOfMihh&show_icons=true&theme=dark&locale=en&layout=compact" alt="BlastOfMihh" />
+
+
+![](https://komarev.com/ghpvc/?username=BlastOfMihh&style=flat&color=770058&label=visitors)
+
