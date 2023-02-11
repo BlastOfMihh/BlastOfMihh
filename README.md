@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="left">✧˖° About me: ✨</h1>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlastOfMihh&show_icons=true&theme=dark&locale=en&layout=compact" alt="BlastOfMihh" />
